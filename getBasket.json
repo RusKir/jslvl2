@@ -1,3 +1,4 @@
+[
 {
   "image": "https://placehold.it/200x150",
 	"cartImage": "https://placehold.it/100x80",
@@ -11,7 +12,7 @@
     "product_name": "Ноутбук",
     "price": 45600
   },
-  
+  {
     "image": "https://placehold.it/200x150",
 	"cartImage": "https://placehold.it/100x80",
     "id_product": 456,
