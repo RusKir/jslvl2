@@ -1,32 +1,37 @@
 [
   {
-    "id_product": 123,
-    "product_name": "Ноутбук",
-    "price": 45600
-  },
-  {
-    "id_product": 456,
-    "product_name": "Мышка",
+      "image": "https://placehold.it/200x150",
+	"cartImage": "https://placehold.it/100x80",
+    "id": 1,
+    "title": "Мышка",
     "price": 1000
   },
   {
-    "id_product": 327,
-    "product_name": "Клавиатура",
+    "image": "https://placehold.it/200x150",
+	"cartImage": "https://placehold.it/100x80",
+    "id": 2,
+    "title": "Клавиатура",
     "price": 1200
   },
   {
-    "id_product": 328,
-    "product_name": "Телефон",
+    "image": "https://placehold.it/200x150",
+	"cartImage": "https://placehold.it/100x80",
+    "id": 3,
+    "title": "Телефон",
     "price": 17100
   },
   {
-    "id_product": 329,
-    "product_name": "Роутер",
+    "image": "https://placehold.it/200x150",
+	"cartImage": "https://placehold.it/100x80",
+    "id": 4,
+    "title": "Роутер",
     "price": 2700
   },
   {
-    "id_product": 329,
-    "product_name": "Геймпад",
+    "image": "https://placehold.it/200x150",
+	"cartImage": "https://placehold.it/100x80",
+    "id": 5,
+    "title": "Геймпад",
     "price": 4700
   }
 ]
