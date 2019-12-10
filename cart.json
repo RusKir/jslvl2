@@ -4,7 +4,7 @@
 	"cartImage": "https://placehold.it/100x80",
     "id": 1,
     "title": "Мышка",
-    "price": 1000
+    "price": 1000,
     "quantity": 2
   },
   {
@@ -12,7 +12,7 @@
 	"cartImage": "https://placehold.it/100x80",
     "id": 2,
     "title": "Клавиатура",
-    "price": 1200
+    "price": 1200,
     "quantity": 3
   }
 ]
